@@ -93,9 +93,6 @@ The optimized build will be in the `build/` directory.
 - [React.js](https://reactjs.org/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
