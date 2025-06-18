@@ -8,11 +8,11 @@ A responsive and accessible single-page application (SPA) built with React.js, d
 
 ## 🚀 Features
 
-- ✅ Responsive Design for mobile, tablet, and desktop
+- ✅ Responsive Design for all devices
 - ✅ Modular and reusable React components
-- ✅ State Management using React Hooks
-- ✅ User-friendly Forms with Validation
-- ✅ CSS Modules for scoped styling
+- ✅ Efficient state handling using React Hooks
+- ✅ Form validation for better UX
+- ✅ CSS Modules for scoped and maintainable styles
 
 ---
 
@@ -34,7 +34,9 @@ OsumareFrontendTest/
 ├── README.md
 └── yarn.lock / package-lock.json
 
-
+yaml
+Copy
+Edit
 
 ---
 
@@ -45,19 +47,12 @@ OsumareFrontendTest/
 ```bash
 git clone https://github.com/Purnav-18/Osumare_Frontend.git
 cd OsumareFrontendTest
-
 2. Install Dependencies
-Using npm:
-
 bash
 Copy
 Edit
 npm install
-Or using yarn:
-
-bash
-Copy
-Edit
+# or
 yarn install
 3. Run the Development Server
 bash
@@ -66,7 +61,7 @@ Edit
 npm start
 # or
 yarn start
-Visit the app: http://localhost:3000
+🔗 Visit: http://localhost:3000
 
 📦 Build for Production
 bash
@@ -75,21 +70,18 @@ Edit
 npm run build
 # or
 yarn build
-Output goes to the build/ folder.
+🛠 Technologies Used
+⚛️ React.js
 
-🔧 Technologies Used
-React.js
+💅 CSS Modules
 
-React Router
+🧭 React Router
 
-CSS Modules
-
-JavaScript (ES6+)
-
-Netlify (for deployment)
+📦 Netlify (for deployment)
 
 📸 Screenshots
-<img src="https://i.ibb.co/5x5jjSyq/Screenshot-2025-04-23-at-6-39-48-PM.png" alt="Screenshot 1" width="400" /> <img src="https://i.ibb.co/LBr1yKV/Screenshot-2025-04-23-at-6-40-29-PM.png" alt="Screenshot 2" width="400" /> <img src="https://i.ibb.co/LhQvDwz9/Screenshot-2025-04-23-at-6-40-15-PM.png" alt="Screenshot 3" width="400" /> <img src="https://i.ibb.co/MkNM6Q5M/Screenshot-2025-04-23-at-6-40-01-PM.png" alt="Screenshot 4" width="400" />
-🙋‍♂️ Author
-👨‍💻 Purnav Bhatt
+<img src="https://i.ibb.co/5x5jjSyq/Screenshot-2025-04-23-at-6-39-48-PM.png" alt="Screenshot 1" width="100%" /> <img src="https://i.ibb.co/LBr1yKV/Screenshot-2025-04-23-at-6-40-29-PM.png" alt="Screenshot 2" width="100%" />
+ <img src="https://i.ibb.co/LhQvDwz9/Screenshot-2025-04-23-at-6-40-15-PM.png" alt="Screenshot 3" width="100%" /> <img src="https://i.ibb.co/MkNM6Q5M/Screenshot-2025-04-23-at-6-40-01-PM.png" alt="Screenshot 4" width="100%" />
+👨‍💻 Author
+Purnav Bhatt
 MERN Stack Developer
