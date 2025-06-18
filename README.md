@@ -36,7 +36,7 @@ OsumareFrontendTest/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Shlokmonster/OsumareFrontendTest.git
+   https://github.com/Purnav-18/Osumare_Frontend.git
    cd OsumareFrontendTest
    ```
 
@@ -96,10 +96,6 @@ The optimized build will be in the `build/` directory.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 👤 Author
-
-- **Shlok** - [GitHub](https://github.com/Shlokmonster)
 
 ## Screenshots
 
